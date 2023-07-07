@@ -1,0 +1,46 @@
+{
+    "articles":[
+        {
+            "id": "1",
+            "title": "Learn Python with React",
+            "author": "Hakim",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "2",
+            "title": "Learn Oracle Administration",
+            "author": "Ayar",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "3",
+            "title": "Learn Web Development",
+            "author": "Aryan",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "4",
+            "title": "Learn Web Development",
+            "author": "Aryan",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "5",
+            "title": "Learn Web Development",
+            "author": "Aryan",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "6",
+            "title": "Learn Web Development",
+            "author": "Aryan",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        },
+        {
+            "id": "7",
+            "title": "Learn Web Development",
+            "author": "Aryan",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni officia, quod assumenda tempore vitae quis rem optio exercitationem ducimus nulla fugiat numquam neque deserunt repudiandae nesciunt. Totam veniam, error doloremque ipsam quae quasi. Quaerat mollitia hic accusamus enim magni totam. Unde perferendis quasi libero? Vitae tempora repudiandae eaque maiores ratione modi. Maiores distinctio eligendi delectus sint earum corrupti ducimus, dolor velit ea corporis quibusdam incidunt inventore modi repudiandae explicabo ipsa ut porro? Corporis natus laboriosam ratione quod minus. Impedit neque, minus similique soluta, blanditiis inventore assumenda in dolorum consequatur nihil, aperiam quis nobis quae facilis repellendus perferendis maxime recusandae ducimus?"
+        }
+    ]
+}
